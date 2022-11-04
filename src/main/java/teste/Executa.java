@@ -28,6 +28,8 @@ public class Executa {
 			
 			System.out.println("cache total do filme "+f1.getTitulo()+" = "+f1.cacheTotal());
 			
+			System.out.println("oi");
+			
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
